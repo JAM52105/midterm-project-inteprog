@@ -142,8 +142,6 @@ public:
             }
         }
 
-        cin.ignore();
-
         while (true) {
             cout << "Enter Title: "; 
             getline(cin, title);
